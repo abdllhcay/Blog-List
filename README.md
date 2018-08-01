@@ -1,10 +1,13 @@
-## Must Follow
+## Türkçe
 
 - [Mert Sarıca](https://www.mertsarica.com/)
 - [Halil Öztürkçi](http://halilozturkci.com/)
 - [Ömer Çıtak](https://omercitak.com/)
 - [CanYouPwnMe](https://canyoupwn.me/)
 - [Ring0](https://ring0.info/)
+
+## English
+
 - [Hackers Arise](https://www.hackers-arise.com/)
 - [Darknet](https://www.darknet.org.uk/)
 - [Woodmann](http://woodmann.com/)
