@@ -17,3 +17,4 @@ Sunshine 2k     http://www.sunshine2k.de/
 Secops          http://secops.blog/
 
 Hacking Articles http://www.hackingarticles.in/
+HACK-ED https://hack-ed.net/
