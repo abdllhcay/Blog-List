@@ -1,5 +1,8 @@
 ## Must Follow
 
+- [Mert Sarıca](https://www.mertsarica.com/)
+- [Halil Öztürkçi](http://halilozturkci.com/)
+- [Ömer Çıtak](https://omercitak.com/)
 - [CanYouPwnMe](https://canyoupwn.me/)
 - [Ring0](https://ring0.info/)
 - [Hackers Arise](https://www.hackers-arise.com/)
@@ -7,7 +10,6 @@
 - [Woodmann](http://woodmann.com/)
 - [Evil Code Cave](https://evilcodecave.wordpress.com/)
 - [Sunshine 2k](http://www.sunshine2k.de/)
-- [Ömer Çıtak](https://omercitak.com/)
 - [Secops](http://secops.blog/)
 - [Hacking Articles](http://www.hackingarticles.in/)
 - [HACK-ED](https://hack-ed.net/)
