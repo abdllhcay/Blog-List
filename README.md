@@ -17,3 +17,4 @@
 - [Hacking Articles](http://www.hackingarticles.in/)
 - [HACK-ED](https://hack-ed.net/)
 - [Scott Helme](https://scotthelme.co.uk/)
+- [FuzzySecurity](http://www.fuzzysecurity.com/index.html)
