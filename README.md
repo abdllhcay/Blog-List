@@ -19,3 +19,4 @@
 - [Scott Helme](https://scotthelme.co.uk/)
 - [FuzzySecurity](http://www.fuzzysecurity.com/index.html)
 - [Pentest.Blog](https://pentest.blog/)
+- [ScriptDotSh](https://scriptdotsh.com/)
