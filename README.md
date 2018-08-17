@@ -2,6 +2,7 @@
 
 - [Mert Sarıca](https://www.mertsarica.com/)
 - [Halil Öztürkçi](http://halilozturkci.com/)
+- [Eyüp Çelik](http://eyupcelik.com.tr/)
 - [Ömer Çıtak](https://omercitak.com/)
 - [CanYouPwnMe](https://canyoupwn.me/)
 - [Ring0](https://ring0.info/)
