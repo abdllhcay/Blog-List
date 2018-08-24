@@ -21,3 +21,4 @@
 - [FuzzySecurity](http://www.fuzzysecurity.com/index.html)
 - [Pentest.Blog](https://pentest.blog/)
 - [ScriptDotSh](https://scriptdotsh.com/)
+- [Arjun Sreedharan](https://arjunsreedharan.org/)
