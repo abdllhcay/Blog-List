@@ -25,7 +25,7 @@
 
 ### OS Development
 
-- [The Little OS Book](https://littleosbook.github.io/)
-- [BrokenThorn Entertainment](http://www.brokenthorn.com/Resources/OSDevIndex.html)
-- [Linux From Stratch](http://www.linuxfromscratch.org/lfs/read.html)
-- [OSDev Wiki](https://wiki.osdev.org/Main_Page)
+- [The Little OS Book](https://littleosbook.github.io/) - *(English)*
+- [BrokenThorn Entertainment](http://www.brokenthorn.com/Resources/OSDevIndex.html) - *(English)*
+- [Linux From Stratch](http://www.linuxfromscratch.org/lfs/read.html) - *(English)*
+- [OSDev Wiki](https://wiki.osdev.org/Main_Page) - *(English)*
