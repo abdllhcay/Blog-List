@@ -9,14 +9,8 @@
 
 ## English
 
-- [Hackers Arise](https://www.hackers-arise.com/)
-- [Darknet](https://www.darknet.org.uk/)
-- [Woodmann](http://woodmann.com/)
-- [Evil Code Cave](https://evilcodecave.wordpress.com/)
-- [Sunshine 2k](http://www.sunshine2k.de/)
+
 - [Secops](http://secops.blog/)
-
-
 - [ScriptDotSh](https://scriptdotsh.com/)
 - [Arjun Sreedharan](https://arjunsreedharan.org/)
 
@@ -25,9 +19,15 @@
 - [Pentest.Blog](https://pentest.blog/) - Prodaft's blog with a lot of helpful posts about pentesting *(English)*
 - [Hacking Articles](http://www.hackingarticles.in/) - Another great resource for learning penetration testing. It contains dozens of articles about pentesting *(English)*
 
-### Exploitation and Malware Analysis
+### Exploit Development, Malware Analysis and Reverse Engineering
 
 - [FuzzySecurity](http://www.fuzzysecurity.com/index.html) - A great blog that covers tutorials include exploit development, malware analysis and hacking *(English)*
+- [Evil Code Cave](https://evilcodecave.wordpress.com/) - A blog containing an analysis of many malware on the market. Older posts can be read, but the new ones are hidden and an inviting is required *(English)*
+- [Woodmann](http://woodmann.com/) - Combine of different blog pages about RCE and malware analysis *(English)*
+
+### Coding
+
+- [Sunshine 2k](http://www.sunshine2k.de/) - Articles about different programming languages like C/C++, Java and .NET. Also reverse engineering topics are covered *(English)*
 
 ### OS Development
 
@@ -38,8 +38,10 @@
 
 ### Misc
 
+- [Hackers Arise](https://www.hackers-arise.com/) - The most wide hacking blog! From IoT security to digital forensics and Scada security to Android hacking *(English)*
 - [Scott Helme](https://scotthelme.co.uk/) - Security researcher Scott Helme's personal blog *(English)*
 - [HACK-ED](https://hack-ed.net/) - A group of security professionals blog. Writes about web application security, network security, information security management, malware analysis, security news and more *(English)*
+- [Darknet](https://www.darknet.org.uk/) - A lot of useful articles about hacking and cracking *(English)*
 
 
 
