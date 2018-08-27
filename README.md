@@ -5,14 +5,8 @@
 - [Eyüp Çelik](http://eyupcelik.com.tr/)
 - [Ömer Çıtak](https://omercitak.com/)
 - [CanYouPwnMe](https://canyoupwn.me/)
-- [Ring0](https://ring0.info/)
-
-## English
 
 
-- [Secops](http://secops.blog/)
-- [ScriptDotSh](https://scriptdotsh.com/)
-- [Arjun Sreedharan](https://arjunsreedharan.org/)
 
 ### Pentesting
 
@@ -21,9 +15,12 @@
 
 ### Exploit Development, Malware Analysis and Reverse Engineering
 
-- [FuzzySecurity](http://www.fuzzysecurity.com/index.html) - A great blog that covers tutorials include exploit development, malware analysis and hacking *(English)*
+- [FuzzySecurity](http://www.fuzzysecurity.com/index.html) - A great blog that covers exploit development, malware analysis and hacking *(English)*
 - [Evil Code Cave](https://evilcodecave.wordpress.com/) - A blog containing an analysis of many malware on the market. Older posts can be read, but the new ones are hidden and an inviting is required *(English)*
 - [Woodmann](http://woodmann.com/) - Combine of different blog pages about RCE and malware analysis *(English)*
+- [Secops](http://secops.blog/) - A useful blog with analysis of many different malware *(Türkçe)*
+- [ScriptDotSh](https://scriptdotsh.com/) - Great tutorials about RCE and buffer overflows *(English)*
+
 
 ### Coding
 
@@ -42,6 +39,8 @@
 - [Scott Helme](https://scotthelme.co.uk/) - Security researcher Scott Helme's personal blog *(English)*
 - [HACK-ED](https://hack-ed.net/) - A group of security professionals blog. Writes about web application security, network security, information security management, malware analysis, security news and more *(English)*
 - [Darknet](https://www.darknet.org.uk/) - A lot of useful articles about hacking and cracking *(English)*
+- [Arjun Sreedharan](https://arjunsreedharan.org/) - Enlightening articles about programming and computer science *(English)*
+- [Ring0](https://ring0.info/) - A terrific Turkish source for articles on many interesting topics, from operating systems to exploitation and reverse engineering *(Türkçe)*
 
 
 
