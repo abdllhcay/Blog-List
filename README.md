@@ -1,4 +1,4 @@
-## Türkçe
+# Türkçe
 
 - [Mert Sarıca](https://www.mertsarica.com/)
 - [Halil Öztürkçi](http://halilozturkci.com/)
@@ -7,7 +7,7 @@
 - [CanYouPwnMe](https://canyoupwn.me/)
 - [Ring0](https://ring0.info/)
 
-## English
+# English
 
 - [Hackers Arise](https://www.hackers-arise.com/)
 - [Darknet](https://www.darknet.org.uk/)
@@ -22,3 +22,10 @@
 - [Pentest.Blog](https://pentest.blog/)
 - [ScriptDotSh](https://scriptdotsh.com/)
 - [Arjun Sreedharan](https://arjunsreedharan.org/)
+
+## OS Development
+
+- [The Little OS Book](https://littleosbook.github.io/)
+- [BrokenThorn Entertainment](http://www.brokenthorn.com/Resources/OSDevIndex.html)
+- [Linux From Stratch](http://www.linuxfromscratch.org/lfs/read.html)
+- [OSDev Wiki](https://wiki.osdev.org/Main_Page)
