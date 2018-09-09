@@ -14,6 +14,7 @@
 - [Woodmann](http://woodmann.com/) - Combine of different blog pages about RCE and malware analysis [*English*]
 - [Secops](http://secops.blog/) - A useful blog with analysis of many different malwares [*Türkçe*]
 - [ScriptDotSh](https://scriptdotsh.com/) - Great tutorials about RCE and buffer overflows [*English*]
+- [Malware-Traffic-Analysis](http://www.malware-traffic-analysis.net/) - A source for PCAP files and malware samples. A lot of tutorials for network analysis [*English*]
 
 ## OS Development
 
