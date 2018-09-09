@@ -1,12 +1,3 @@
-## Coding
-
-- [Sunshine 2k](http://www.sunshine2k.de/) - Articles about different programming languages like C/C++, Java and .NET. Also reverse engineering topics are covered [*English*]
-
-## Pentesting
-
-- [Pentest.Blog](https://pentest.blog/) - Prodaft's blog with a lot of helpful posts about pentesting [*English*]
-- [Hacking Articles](http://www.hackingarticles.in/) - Another great resource for learning penetration testing. It contains dozens of articles about pentesting [*English*]
-
 ## Exploit Development, Malware Analysis and RE
 
 - [FuzzySecurity](http://www.fuzzysecurity.com/index.html) - A great blog that covers exploit development, malware analysis and hacking [*English*]
@@ -16,6 +7,15 @@
 - [ScriptDotSh](https://scriptdotsh.com/) - Great tutorials about RCE and buffer overflows [*English*]
 - [Malware-Traffic-Analysis](http://www.malware-traffic-analysis.net/) - A source for PCAP files and malware samples. A lot of tutorials for network analysis [*English*]
 - [Dr. Fu's Security Blog](http://fumalwareanalysis.blogspot.com/) - Malware analysis tutorials for beginners. [*English*]
+
+## Coding
+
+- [Sunshine 2k](http://www.sunshine2k.de/) - Articles about different programming languages like C/C++, Java and .NET. Also reverse engineering topics are covered [*English*]
+
+## Pentesting
+
+- [Pentest.Blog](https://pentest.blog/) - Prodaft's blog with a lot of helpful posts about pentesting [*English*]
+- [Hacking Articles](http://www.hackingarticles.in/) - Another great resource for learning penetration testing. It contains dozens of articles about pentesting [*English*]
 
 ## OS Development
 
