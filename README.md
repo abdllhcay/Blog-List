@@ -10,7 +10,7 @@
 ## Exploit Development, Malware Analysis and RE
 
 - [FuzzySecurity](http://www.fuzzysecurity.com/index.html) - A great blog that covers exploit development, malware analysis and hacking [*English*]
-- [Evil Code Cave](https://evilcodecave.wordpress.com/) - A blog containing an analysis of many malware on the market. Older posts can be read, but the new ones are hidden and an inviting is required [*English*]
+- [Evil Code Cave](https://evilcodecave.wordpress.com/) - A blog containing analysis of many malware on the market. Older posts can be read, but the new ones are hidden and an inviting is required [*English*]
 - [Woodmann](http://woodmann.com/) - Combine of different blog pages about RCE and malware analysis [*English*]
 - [Secops](http://secops.blog/) - A useful blog with analysis of many different malwares [*Türkçe*]
 - [ScriptDotSh](https://scriptdotsh.com/) - Great tutorials about RCE and buffer overflows [*English*]
