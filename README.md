@@ -7,7 +7,7 @@
 - [Pentest.Blog](https://pentest.blog/) - Prodaft's blog with a lot of helpful posts about pentesting [*English*]
 - [Hacking Articles](http://www.hackingarticles.in/) - Another great resource for learning penetration testing. It contains dozens of articles about pentesting [*English*]
 
-## Exploit Development, Malware Analysis and Reverse Engineering
+## Exploit Development, Malware Analysis and RE
 
 - [FuzzySecurity](http://www.fuzzysecurity.com/index.html) - A great blog that covers exploit development, malware analysis and hacking [*English*]
 - [Evil Code Cave](https://evilcodecave.wordpress.com/) - A blog containing an analysis of many malware on the market. Older posts can be read, but the new ones are hidden and an inviting is required [*English*]
