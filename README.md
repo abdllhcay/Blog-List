@@ -35,6 +35,7 @@
 ## Misc
 
 - [Hackers Arise](https://www.hackers-arise.com/) - The most wide hacking blog! From IoT security to digital forensics and Scada security to Android hacking [*English*]
+- [0x00sec](https://0x00sec.org/) - A forum site with dozens of posts include malware analysis, coding and hacking. Absolutely must visit.
 - [HACK-ED](https://hack-ed.net/) - A group of security professionals blog. Writes about web application security, network security, information security management, malware analysis, security news and more [*English*]
 - [Darknet](https://www.darknet.org.uk/) - A lot of useful articles about hacking and cracking [*English*]
 - [Arjun Sreedharan](https://arjunsreedharan.org/) - Enlightening articles about programming and computer science [*English*]
