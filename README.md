@@ -24,8 +24,9 @@
 - [Linux From Stratch](http://www.linuxfromscratch.org/lfs/read.html) - [*English*]
 - [OSDev Wiki](https://wiki.osdev.org/Main_Page) - [*English*]
 
-## Personal Blog
+## Personal Blogs
 
+- [Vitali Kremez](https://www.vkremez.com/) - Ethical hacker and reverse engineer Vitali Kremez's personal blog. A good resource for advanced topics [*English*]
 - [Scott Helme](https://scotthelme.co.uk/) - Security researcher Scott Helme's personal blog [*English*]
 - [Halil Öztürkçi](http://halilozturkci.com/) - Security professional and founder of ADEO IT Consulting Services Halil Ozturkci's personal blog. Writes about digital forensics and malware analysis [*Türkçe*]
 - [Hack 4 Career](https://www.mertsarica.com/) - Security consultant Mert Sarica's personal blog [*Türkçe*]
