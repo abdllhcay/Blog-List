@@ -32,6 +32,7 @@
 - [Hack 4 Career](https://www.mertsarica.com/) - Security consultant Mert Sarica's personal blog [*Türkçe*]
 - [Ömer Çıtak](https://omercitak.com/) - Turkish security researcher Omer Citak official blog [*Türkçe*]
 - [Eyüp Çelik](http://eyupcelik.com.tr/) - Security professional Eyup Celik personal blog. Writes about ethical hacking and database security management [*Türkçe*]
+- [Giovanni Rocca](http://www.giovanni-rocca.com/) - Mobile developer and reverse engineer Giovanni Rocca's personal blog.
 
 ## Misc
 
