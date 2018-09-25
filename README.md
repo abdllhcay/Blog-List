@@ -10,7 +10,7 @@
 
 ## Web Security
 
-- [BruteLogic](https://brutelogic.com.br/blog/) - Master the art of Cross Site Scripting
+- [BruteLogic](https://brutelogic.com.br/blog/) - Master the art of Cross Site Scripting [*English*]
 
 ## Pentesting
 
