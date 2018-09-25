@@ -8,9 +8,9 @@
 - [Malware-Traffic-Analysis](http://www.malware-traffic-analysis.net/) - A source for PCAP files and malware samples. A lot of tutorials for network analysis [*English*]
 - [Dr. Fu's Security Blog](http://fumalwareanalysis.blogspot.com/) - Malware analysis tutorials for beginners. [*English*]
 
-## Coding
+## Web Security
 
-- [Sunshine 2k](http://www.sunshine2k.de/) - Articles about different programming languages like C/C++, Java and .NET. Also reverse engineering topics are covered [*English*]
+- [BruteLogic](https://brutelogic.com.br/blog/) - Master the art of Cross Site Scripting
 
 ## Pentesting
 
@@ -23,6 +23,10 @@
 - [BrokenThorn Entertainment](http://www.brokenthorn.com/Resources/OSDevIndex.html) - [*English*]
 - [Linux From Stratch](http://www.linuxfromscratch.org/lfs/read.html) - [*English*]
 - [OSDev Wiki](https://wiki.osdev.org/Main_Page) - [*English*]
+
+## Coding
+
+- [Sunshine 2k](http://www.sunshine2k.de/) - Articles about different programming languages like C/C++, Java and .NET. Also reverse engineering topics are covered [*English*]
 
 ## Personal Blogs
 
