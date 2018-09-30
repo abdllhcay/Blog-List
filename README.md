@@ -47,6 +47,7 @@
 - [Arjun Sreedharan](https://arjunsreedharan.org/) - Enlightening articles about programming and computer science [*English*]
 - [Ring0](https://ring0.info/) - A terrific Turkish source for articles on many interesting topics, from operating systems to exploitation and reverse engineering [*Türkçe*]
 - [CanYouPwnMe](https://canyoupwn.me/) - Programming tutorails, challenges and dozens of hacking articles in Turkish [*Türkçe*]
+- [The Infosec](https://the-infosec.com/) - Top 100 information security blogs winner. Writing about hacking and bug bounty programs [*English*]
 
 
 
