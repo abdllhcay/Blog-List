@@ -7,6 +7,7 @@
 - [ScriptDotSh](https://scriptdotsh.com/) - Great tutorials about RCE and buffer overflows [*English*]
 - [Malware-Traffic-Analysis](http://www.malware-traffic-analysis.net/) - A source for PCAP files and malware samples. A lot of tutorials for network analysis [*English*]
 - [Dr. Fu's Security Blog](http://fumalwareanalysis.blogspot.com/) - Malware analysis tutorials for beginners. [*English*]
+- [Checkmate](http://niiconsulting.com/checkmate/) - Many interesting articles and tutorials about malware coding, reverse engineering and much more [*English*]
 
 ## Web Security
 
