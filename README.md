@@ -25,7 +25,7 @@
 - [Linux From Stratch](http://www.linuxfromscratch.org/lfs/read.html) - [*English*]
 - [OSDev Wiki](https://wiki.osdev.org/Main_Page) - [*English*]
 
-## Coding
+## Programming
 
 - [Sunshine 2k](http://www.sunshine2k.de/) - Articles about different programming languages like C/C++, Java and .NET. Also reverse engineering topics are covered [*English*]
 
@@ -50,6 +50,7 @@
 - [CanYouPwnMe](https://canyoupwn.me/) - Programming tutorails, challenges and dozens of hacking articles in Turkish [*Türkçe*]
 - [The Infosec](https://the-infosec.com/) - Top 100 information security blogs winner. Writing about hacking and bug bounty programs [*English*]
 - [PRDeving](https://prdeving.wordpress.com/) - C/C++ programming, hacking, security and game development [*English*]
+- [MOV AX, BX](https://movaxbx.ru/) - Low-level programming, hacking, exploit development and more [*English*, *Russian*]
 
 
 
