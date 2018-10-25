@@ -28,6 +28,7 @@
 ## Programming
 
 - [Sunshine 2k](http://www.sunshine2k.de/) - Articles about different programming languages like C/C++, Java and .NET. Also reverse engineering topics are covered [*English*]
+- [Rosetta Code](https://rosettacode.org/wiki/Rosetta_Code) - A programming chrestomathy site. Demonstrates how languages are similar and different. [*English*]
 
 ## Personal Blogs
 
