@@ -12,6 +12,7 @@
 ## Web Security
 
 - [BruteLogic](https://brutelogic.com.br/blog/) - Master the art of Cross Site Scripting [*English*]
+- [DeadlistWebAttacks](https://deadliestwebattacks.com/) - Entertaining insights into web security [*English*]
 
 ## Pentesting
 
