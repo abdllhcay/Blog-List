@@ -28,9 +28,10 @@
 
 ## Programming
 
+- [Exception Not Found](https://exceptionnotfound.net/) - Stories from a web developer [*English*]
+- [.NET Core Tutorials](https://dotnetcoretutorials.com/) - A great website with many illustrative examples. [*English*]
 - [Sunshine 2k](http://www.sunshine2k.de/) - Articles about different programming languages like C/C++, Java and .NET. Also reverse engineering topics are covered [*English*]
 - [Rosetta Code](https://rosettacode.org/wiki/Rosetta_Code) - A programming chrestomathy site. Demonstrates how languages are similar and different. [*English*]
-- [Exception Not Found](https://exceptionnotfound.net/) - Stories from a web developer [*English*]
 
 ## Personal Blogs
 
