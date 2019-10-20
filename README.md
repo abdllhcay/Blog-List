@@ -42,6 +42,11 @@
 - [Ömer Çıtak](https://omercitak.com/) - Turkish security researcher Omer Citak official blog [*Türkçe*]
 - [Eyüp Çelik](http://eyupcelik.com.tr/) - Security professional Eyup Celik personal blog. Writes about ethical hacking and database security management [*Türkçe*]
 - [Giovanni Rocca](http://www.giovanni-rocca.com/) - Mobile developer and reverse engineer Giovanni Rocca's personal blog.
+- [Techielass](https://www.techielass.com) - IT Pro focussed blog by a female IT professional.
+
+## IT Pro
+
+- [IT Ops Talk](http://itopstalk.com/) - IT Pro blog by the Microsoft Cloud Advocate team
 
 ## Misc
 
