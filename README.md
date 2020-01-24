@@ -1,13 +1,21 @@
-## Exploit Development, Malware Analysis and RE
+# The Awesome IT Blog List - v1.0 :fire:</p>
+I have listed great blog sites that are not so known. Hope that will be useful.  :computer: :heart_eyes: If you want to add a blog please send me a request. :wink: Thanks!
 
-- [FuzzySecurity](http://www.fuzzysecurity.com/index.html) - A great blog that covers exploit development, malware analysis and hacking [*English*]
-- [Evil Code Cave](https://evilcodecave.wordpress.com/) - A blog containing analysis of many malware on the market. Older posts can be read, but the new ones are hidden and an inviting is required [*English*]
-- [Woodmann](http://woodmann.com/) - Combine of different blog pages about RCE and malware analysis [*English*]
-- [Secops](http://secops.blog/) - A useful blog with analysis of many different malwares [*Türkçe*]
-- [ScriptDotSh](https://scriptdotsh.com/) - Great tutorials about RCE and buffer overflows [*English*]
-- [Malware-Traffic-Analysis](http://www.malware-traffic-analysis.net/) - A source for PCAP files and malware samples. A lot of tutorials for network analysis [*English*]
-- [Dr. Fu's Security Blog](http://fumalwareanalysis.blogspot.com/) - Malware analysis tutorials for beginners. [*English*]
-- [Checkmate](http://niiconsulting.com/checkmate/) - Many interesting articles and tutorials about malware coding, reverse engineering and much more [*English*]
+## Categories
+- [Programming](https://github.com/abdllhcay/blog-list#programming)
+- [Web Security](https://github.com/abdllhcay/blog-list#web-security)
+- [Pentesting](https://github.com/abdllhcay/blog-list#pentesting)
+- [OS Development](https://github.com/abdllhcay/blog-list#os-development)
+- [Exploit Development, Malware Analysis and RE](https://github.com/abdllhcay/blog-list#exploit-development-malware-analysis-and-re)
+- [Personal Blogs](https://github.com/abdllhcay/blog-list#personal-blogs)
+- [Misc](https://github.com/abdllhcay/blog-list#misc)
+
+## Programming
+
+- [Exception Not Found](https://exceptionnotfound.net/) - Stories from a web developer [*English*]
+- [.NET Core Tutorials](https://dotnetcoretutorials.com/) - A great website with many illustrative examples. [*English*]
+- [Sunshine 2k](http://www.sunshine2k.de/) - Articles about different programming languages like C/C++, Java and .NET. Also reverse engineering topics are covered [*English*]
+- [Rosetta Code](https://rosettacode.org/wiki/Rosetta_Code) - A programming chrestomathy site. Demonstrates how languages are similar and different. [*English*]
 
 ## Web Security
 
@@ -26,12 +34,16 @@
 - [Linux From Stratch](http://www.linuxfromscratch.org/lfs/read.html) - [*English*]
 - [OSDev Wiki](https://wiki.osdev.org/Main_Page) - [*English*]
 
-## Programming
+## Exploit Development, Malware Analysis and RE
 
-- [Exception Not Found](https://exceptionnotfound.net/) - Stories from a web developer [*English*]
-- [.NET Core Tutorials](https://dotnetcoretutorials.com/) - A great website with many illustrative examples. [*English*]
-- [Sunshine 2k](http://www.sunshine2k.de/) - Articles about different programming languages like C/C++, Java and .NET. Also reverse engineering topics are covered [*English*]
-- [Rosetta Code](https://rosettacode.org/wiki/Rosetta_Code) - A programming chrestomathy site. Demonstrates how languages are similar and different. [*English*]
+- [FuzzySecurity](http://www.fuzzysecurity.com/index.html) - A great blog that covers exploit development, malware analysis and hacking [*English*]
+- [Evil Code Cave](https://evilcodecave.wordpress.com/) - A blog containing analysis of many malware on the market. Older posts can be read, but the new ones are hidden and an inviting is required [*English*]
+- [Woodmann](http://woodmann.com/) - Combine of different blog pages about RCE and malware analysis [*English*]
+- [Secops](http://secops.blog/) - A useful blog with analysis of many different malwares [*Türkçe*]
+- [ScriptDotSh](https://scriptdotsh.com/) - Great tutorials about RCE and buffer overflows [*English*]
+- [Malware-Traffic-Analysis](http://www.malware-traffic-analysis.net/) - A source for PCAP files and malware samples. A lot of tutorials for network analysis [*English*]
+- [Dr. Fu's Security Blog](http://fumalwareanalysis.blogspot.com/) - Malware analysis tutorials for beginners. [*English*]
+- [Checkmate](http://niiconsulting.com/checkmate/) - Many interesting articles and tutorials about malware coding, reverse engineering and much more [*English*]
 
 ## Personal Blogs
 
