@@ -1,5 +1,6 @@
-# The Awesome IT Blog List - v1.0 :fire:</p>
-I have listed great blog sites that are not so known. Hope that will be useful.  :computer: :heart_eyes: <br>
+<h1 align="center"> The Awesome IT Blog List - v1.0 :fire: </h1> 
+
+I have listed great blog sites that are not so known. Hope that will be useful.  :computer: :heart_eyes:
 If you want to add a blog please send me a request. :wink: Thanks!
 
 ## Categories
