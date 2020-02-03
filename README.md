@@ -1,4 +1,4 @@
-<h1 align="center"> The Awesome IT Blog List - v1.0 </h1> 
+# The Awesome IT Blog List - v1.0
 
 I have listed great blog sites that are not so known. Hope that will be useful.  :computer: :heart_eyes:<br>
 If you want to add a blog please send me a request. :wink: Thanks!
