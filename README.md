@@ -56,7 +56,8 @@ I have listed great blog sites that are not so known. Hope that will be useful. 
 - [Hack 4 Career](https://www.mertsarica.com/) - Security consultant Mert Sarica's personal blog [*Türkçe*]
 - [Ömer Çıtak](https://omercitak.com/) - Turkish security researcher Omer Citak official blog [*Türkçe*]
 - [Eyüp Çelik](http://eyupcelik.com.tr/) - Security professional Eyup Celik personal blog. Writes about ethical hacking and database security management [*Türkçe*]
-- [Giovanni Rocca](http://www.giovanni-rocca.com/) - Mobile developer and reverse engineer Giovanni Rocca's personal blog.
+- [Giovanni Rocca](http://www.giovanni-rocca.com/) - Mobile developer and reverse engineer Giovanni Rocca's personal blog [*English*]
+- [Tugberk Ugurlu](http://www.tugberkugurlu.com/) - Microsoft MVP Tugberk Ugurlu's personal blog [*English*]
 
 ## Misc
 
