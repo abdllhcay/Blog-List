@@ -18,6 +18,7 @@ If you want to add a blog please send me a request. :wink: Thanks!
 - [.NET Core Tutorials](https://dotnetcoretutorials.com/) - A great website with many illustrative examples. [*English*]
 - [Sunshine 2k](http://www.sunshine2k.de/) - Articles about different programming languages like C/C++, Java and .NET. Also reverse engineering topics are covered [*English*]
 - [Rosetta Code](https://rosettacode.org/wiki/Rosetta_Code) - A programming chrestomathy site. Demonstrates how languages are similar and different. [*English*]
+- [Bit of Technology](https://bitoftech.net/) - .NET, Web API, AngularJS, Azure and more... [*English*]
 
 ## Web Security
 
