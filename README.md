@@ -18,6 +18,7 @@ I have listed great blog sites that are not so known. Hope that will be useful. 
 - [Sunshine 2k](http://www.sunshine2k.de/) - Articles about different programming languages like C/C++, Java and .NET. Also reverse engineering topics are covered [*English*]
 - [Rosetta Code](https://rosettacode.org/wiki/Rosetta_Code) - A programming chrestomathy site. Demonstrates how languages are similar and different. [*English*]
 - [Bit of Technology](https://bitoftech.net/) - .NET, Web API, AngularJS, Azure and more... [*English*]
+- [Dot Net Tutorials](https://dotnettutorials.net/) - I think the name is descriptive enough [*English*]
 
 ## Web Security
 
