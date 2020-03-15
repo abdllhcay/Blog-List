@@ -1,7 +1,6 @@
 # The Awesome Blog List
 
-I have listed great blog sites that are not so known. Hope that will be useful.  :computer: :heart_eyes:<br>
-If you want to add a blog please send me a request. :wink: Thanks!
+I have listed great blog sites that are not so known. Hope that will be useful. :computer: :heart_eyes: If you want to add a blog please send me a request. :wink: Thanks!
 
 ## Categories
 - [Programming](https://github.com/abdllhcay/blog-list#programming)
