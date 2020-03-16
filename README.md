@@ -19,6 +19,7 @@ I have listed great blog sites that are not so known. Hope that will be useful. 
 - [Rosetta Code](https://rosettacode.org/wiki/Rosetta_Code) - A programming chrestomathy site. Demonstrates how languages are similar and different. [*English*]
 - [Bit of Technology](https://bitoftech.net/) - .NET, Web API, AngularJS, Azure and more... [*English*]
 - [Dot Net Tutorials](https://dotnettutorials.net/) - I think the name is descriptive enough [*English*]
+- [Wake Up And Code](https://wakeupandcode.com/) - Adventures in web/cloud dev, and more! [*English*]
 
 ## Web Security
 
