@@ -20,6 +20,7 @@ I have listed great blog sites that are not so known. Hope you will enjoy while 
 - [Bit of Technology](https://bitoftech.net/) - .NET, Web API, AngularJS, Azure and more... [*English*]
 - [Dot Net Tutorials](https://dotnettutorials.net/) - I think the name is descriptive enough [*English*]
 - [Wake Up And Code](https://wakeupandcode.com/) - Adventures in web/cloud dev, and more! [*English*]
+- [Coding Blast](https://codingblast.com/) - ASP.NET Core, Angular, React.js and SignalR [*English*]
 
 ## Web Security
 
